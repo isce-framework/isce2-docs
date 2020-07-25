@@ -1,9 +1,7 @@
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- Author: Paul Rosen, Piyush Agram, Heresh Fattahi, David Bekaert
- Organization: Jet Propulsion Laboratory, California Institute of Technology
- Copyright 2018 by the California Institute of Technology.
- ALL RIGHTS RESERVED.
+ Author: Paul Rosen, Piyush Agram, Heresh Fattahi, David Bekaert\
+ Organization: Jet Propulsion Laboratory, California Institute of Technology\
+ Copyright 2018 by the California Institute of Technology. ALL RIGHTS RESERVED.\
  United States Government Sponsorship acknowledged. Any commercial use must be
  negotiated with the Office of Technology Transfer at the
  California Institute of Technology.
@@ -14,7 +12,6 @@
  licenses,  or other export authority as may be required before exporting
  such information to foreign countries or providing access to foreign persons.
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 This repository is meant for Jupyter notebooks meant for instruction at UNAVCO Short Course for InSAR Theory and Processing in Aug 2018.
